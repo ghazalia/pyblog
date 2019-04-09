@@ -1,4 +1,5 @@
-# pyblog
+# pyblog for Web API class CSC406
 example using restplus, sqlalchemy, marshmallow
 
-run dbInit.py to initialize the sqlite database
+v1 - api in a single file
+v2 - codes are refactored
